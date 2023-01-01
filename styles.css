@@ -1,0 +1,24 @@
+body 
+ {
+    min-height: 100%;
+    background-color: #003C47;
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+  }
+a{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+  a:link, a:visited {
+    background-color: transparent;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+  }
+  
+  a:hover, a:active {
+    background-color: #00A3BF;
+  }
